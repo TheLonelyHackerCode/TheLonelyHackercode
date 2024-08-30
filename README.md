@@ -1,4 +1,4 @@
-# The Lonely Hacker 👨‍💻
+# [The Lonely Hacker 👨‍💻](https://github.com/TheLonelyHackerCode/)
 
 Welcome to my GitHub profile! I’m The Lonely Hacker, a 10-year-old coding enthusiast exploring the exciting world of programming. Dive into my projects and join me on this adventure!
 
@@ -16,7 +16,6 @@ I’m 10 years old and already hooked on hacking and coding. When I’m not behi
 - **Tools**: Git, VS Code
 
 ## Things
-My Blog :)
 
 Sites & [Repos](https://github.com/TheLonelyHackerCode/?tab=repositories)
 
