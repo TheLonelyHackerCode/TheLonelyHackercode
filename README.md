@@ -15,6 +15,14 @@ I’m 10 years old and already hooked on hacking and coding. When I’m not behi
 - **Languages**: Python, HTML/CSS/JS
 - **Tools**: Git, VS Code
 
+## Things
+My Blog :)
+
+Sites & [Repos](https://github.com/TheLonelyHackerCode/?tab=repositories)
+
+- [AT-AI](https://TheLonelyHackerCode.github.io/AT-AI)
+
+
 ## 🎉 Thanks for Visiting!
 
 I hope you enjoy exploring my projects. If you have any questions or just want to chat about code, feel free to drop a message.
