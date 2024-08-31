@@ -17,7 +17,7 @@ I’m 10 years old and already hooked on hacking and coding. When I’m not behi
 
 ## Sites
 
-- [AT-AI](https://TheLonelyHackerCode.github.io/AT-AI)
+- Nothing
 
 
 ## 🎉 Thanks for Visiting!
